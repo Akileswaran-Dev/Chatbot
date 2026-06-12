@@ -1,0 +1,32 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local env files
+.env
+.env.local
+.env.production
+.env.development
+
+# Node
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.alembic/
+alembic.ini
